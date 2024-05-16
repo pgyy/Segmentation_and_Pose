@@ -30,10 +30,10 @@ You can also run on Google Colab.
 ## Installation
 
 Clone the repository to your local machine:
-
+```
 git clone https://github.com/yourusername/Segmentation_and_Pose.git
 cd Segmentation_and_Pose
-
+```
 ## Usage 
 Follow the instructions in the notebook
 
